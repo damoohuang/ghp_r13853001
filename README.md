@@ -1,2 +1,2 @@
 I use the dplyr packages used in my analysis
-6020
+Calculate total cases reported in 2014: 6020
